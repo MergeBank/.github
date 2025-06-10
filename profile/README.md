@@ -14,7 +14,7 @@ MergeBank는 "Merge"와 "Bank"의 합성어로, 다양한 금융 상품과 서�
 
 ## 팀원 및 역할
 
-<table style="text-align:center; width:80%; align:center;">
+<table style="text-align:center; width:60%; align:center;">
     <tr>
         <th>팀장</th>
         <th>팀원</th>
