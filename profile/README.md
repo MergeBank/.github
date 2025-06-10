@@ -17,24 +17,11 @@ MergeBank는 "Merge"와 "Bank"의 합성어로, 다양한 금융 상품과 서�
 
 ## 팀원 및 역할
 
-<table style="text-align:center; width:60%; align:center;">
-    <tr>
-        <th>팀장</th>
-        <th>팀원</th>
-    </tr>
-   <tr>
-      <td><img style="width: 100px; height: 100px;" src="./assets/ryongseong_profile.jpeg"></td>
-      <td><img style="width: 100px; height: 100px;" src="./assets/leegitae_profile.png"></td>
-   </tr>
-   <tr style="text-align:center;">
-      <td><a href="https://github.com/ryongseong">임성룡</a>&nbsp;&nbsp;<b>FE,BE,AI</b></td>
-      <td><a href="https://github.com/lee-gi-tae">이기태</a>&nbsp;&nbsp;<b>FE,BE,UI/UX</b></td>
-   </tr>
-    <tr style="text-align:center;">
-      <td style="word-break: keep-all">DB설계, 프로젝트 초기세팅, 인증/인가,  메인페이지,<br> 마이페이지, 게시판, AI 프롬프팅</td>
-      <td style="word-break: keep-all">UI설계, 상품비교, 메인페이지,<br> 은행 지점검색, 게시판</td>
-   </tr>
-</table>
+| 팀장 | 팀원 |
+|:----:|:----:|
+| <img src="./assets/ryongseong_profile.jpeg" alt="임성룡" width="100" height="100" /> | <img src="./assets/leegitae_profile.png" alt="이기태" width="100" height="100" /> |
+| [임성룡](https://github.com/ryongseong)<br>**FE,BE,AI** | [이기태](https://github.com/lee-gi-tae)<br>**FE,BE,UI/UX** |
+| DB설계, 프로젝트 초기세팅, 인증/인가, 메인페이지,<br>마이페이지, 게시판, AI 프롬프팅 | UI설계, 상품비교, 메인페이지,<br>은행 지점검색, 게시판 |
 
 ## 주요 기능
 
