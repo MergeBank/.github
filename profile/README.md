@@ -23,8 +23,8 @@ MergeBank는 "Merge"와 "Bank"의 합성어로, 다양한 금융 상품과 서�
         <th>팀원</th>
     </tr>
    <tr>
-      <td><img src="./assets/ryongseong_profile.jpeg"></td>
-      <td><img src="./assets/leegitae_profile.png"></td>
+      <td><img style="width: 100px; height: 100px;" src="./assets/ryongseong_profile.jpeg"></td>
+      <td><img style="width: 100px; height: 100px;" src="./assets/leegitae_profile.png"></td>
    </tr>
    <tr>
       <td><a href="https://github.com/ryongseong">임성룡</a>&nbsp;&nbsp;<b>FE,BE,AI</b></td>
