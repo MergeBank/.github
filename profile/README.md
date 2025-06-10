@@ -31,8 +31,8 @@ MergeBank는 "Merge"와 "Bank"의 합성어로, 다양한 금융 상품과 서�
       <td><a href="https://github.com/lee-gi-tae">이기태</a>&nbsp;&nbsp;<b>FE,BE,UI/UX</b></td>
    </tr>
     <tr>
-      <td style="word-break: keep-all">DB설계, 프로젝트 초기세팅, 인증/인가, 메인페이지, 마이페이지, 게시판, AI 프롬프팅</td>
-      <td style="word-break: keep-all">UI설계, 상품비교, 메인페이지, 은행 지점검색, 게시판</td>
+      <td style="word-break: keep-all">DB설계, 프로젝트 초기세팅, 인증/인가,  메인페이지,<br> 마이페이지, 게시판, AI 프롬프팅</td>
+      <td style="word-break: keep-all">UI설계, 상품비교, 메인페이지,<br> 은행 지점검색, 게시판</td>
    </tr>
 </table>
 
